@@ -1,12 +1,29 @@
-<p>funciona </p>
 
-<div class="container">
+<body>
+<section class= "Filtros">
+  <form>
+    <header>
+      <h5 id="head"> <b>Set Size Page</b></h5>
+  </header>
+  <ul>
+    <li>
+    <input [(ngModel)]="num" type="number" min="1" max= "picsum.length">
+    <button class="button" type="submit"><b>Enviar</b></button>
+  </li>
+  </ul>
+</form>
+</section>
+
+<div class="container_galeria">
   <div class="row">
     <div class="col-4" *ngFor="let i of picsum | async">
       <div class="card">
+        <a href= {{i.download_url}} target="blank">Descargar aquí</a>
         <img [src]="i.download_url" class="image-cover" />
-        <h5>{{ i.author }}</h5>
+        <h6>Id de la Imagen: {{i.id}}</h6>
+        <h4>{{i.author}}</h4> 
       </div>
     </div>
   </div>
 </div>
+</body>

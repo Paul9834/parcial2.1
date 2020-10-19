@@ -3,3 +3,24 @@
   width: 100%;
   object-fit: cover;
 }
+
+body {
+	margin: 8px;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	background: #f2f2f2; 
+	font-size: 1em;
+  line-height: 1.5em;
+  display: block;
+}
+h6, h4 {
+	font-size: 0.5;
+	line-height: 1.3em;
+	margin: 0.5px 0;
+	text-align: center;
+	font-weight: 300;
+}
+li {
+  list-style: none;
+} 

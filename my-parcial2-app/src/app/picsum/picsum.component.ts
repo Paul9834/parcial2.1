@@ -9,7 +9,7 @@ import { Observable } from 'rxjs';
 })
 export class PicsumComponent implements OnInit {
   picsum: Observable<any>;
-
+  num: number;
   constructor(private picsumService: PicsumService) {}
 
   ngOnInit(): void {
