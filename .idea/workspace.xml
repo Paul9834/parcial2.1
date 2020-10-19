@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7def2689-d6f8-4175-9530-479e64026a29" name="Default Changelist" comment="" />
+    <list default="true" id="7def2689-d6f8-4175-9530-479e64026a29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parcial2-app/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-parcial2-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parcial2-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-parcial2-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parcial2-app/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-parcial2-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parcial2-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-parcial2-app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-parcial2-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-parcial2-app/src/app/app.module.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,11 +42,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603109613415</updated>
-      <workItem from="1603109614555" duration="2088000" />
+      <workItem from="1603109614555" duration="3937000" />
+      <workItem from="1603114851901" duration="777000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1603113057554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603113057554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1603113055912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603113055912" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603113059572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603113059572" />
   </component>
 </project>
